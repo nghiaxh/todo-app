@@ -1,0 +1,29 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "Simple todo app with add and delete function.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nghiaxh/todo-app.git"
+  },
+  "keywords": [
+    "html-css-javascript",
+    "basic-programming",
+    "desktop-app",
+    "web-app"
+  ],
+  "author": "Nghia Hoang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nghiaxh/todo-app/issues"
+  },
+  "homepage": "https://github.com/nghiaxh/todo-app#readme",
+  "devDependencies": {
+    "electron": "^27.1.3"
+  }
+}
